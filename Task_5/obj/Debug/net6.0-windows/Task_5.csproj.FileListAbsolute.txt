@@ -1,0 +1,17 @@
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\bin\Debug\net6.0-windows\Task_5.exe
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\bin\Debug\net6.0-windows\Task_5.deps.json
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\bin\Debug\net6.0-windows\Task_5.runtimeconfig.json
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\bin\Debug\net6.0-windows\Task_5.dll
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\bin\Debug\net6.0-windows\Task_5.pdb
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.csproj.AssemblyReference.cache
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.Form1.resources
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.csproj.GenerateResource.cache
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.AssemblyInfoInputs.cache
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.AssemblyInfo.cs
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.csproj.CoreCompileInputs.cache
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.dll
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\refint\Task_5.dll
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.pdb
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\Task_5.genruntimeconfig.cache
+D:\University\OOP\K28_Tsymbal_HW4\Task_5\obj\Debug\net6.0-windows\ref\Task_5.dll
